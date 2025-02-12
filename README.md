@@ -27,4 +27,4 @@
 
 ## 📫 Entre em contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-j%C3%BAnior-cordeiro-914b34211)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eltonjuniorc@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-eltonjuniorc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eltonjuniorc@gmail.com)](mailto:eltonjuniorc@gmail.com)
