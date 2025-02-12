@@ -1,23 +1,23 @@
 # Olá, me chamo Elton Jr!  
 ## Bem-vindo ao meu perfil do GitHub 👋  
 
-### 🚀 Sobre mim  
+### ⚡ Sobre mim  
 - 📚 Atualmente cursando **Ciência da Computação** (desde 12/2023).  
 - 💻 Me desenvolvendo nas áreas de **desenvolvimento**, **banco de dados** e **ciência de dados**.  
 
-### 💡 Tecnologias que estou utilizando  
+### 💡 Tecnologias que estou utilizando:  
 
-#### **Desenvolvimento**  
+--> **Desenvolvimento:**  
 - **JavaScript**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" />
 - **Python**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" />
 
-#### **Banco de Dados**  
+--> **Banco de Dados:**  
 - **SQL**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" />  
 
-#### **Ciência de Dados**  
+--> **Ciência de Dados:**  
 - **Python** com foco em:  
   - **Pandas**  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" />
@@ -28,7 +28,7 @@
   - **Scikit-Learn**  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30" />
 
-#### **Estou aprendendo:**  
+#### 🚀 **Estou aprendendo:**  
 - **Java**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" />
 - **Power BI**  
