@@ -32,7 +32,7 @@
 - **Java**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" />
 - **Power BI**  
-  <img src="https://seeklogo.com/images/P/power-bi-logo-7B74A95BB5-seeklogo.com.png" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" />
 
 ### 🎯 Busco colaborar em  
 - Projetos focados em **desenvolvimento, banco de dados e ciência de dados**.  
