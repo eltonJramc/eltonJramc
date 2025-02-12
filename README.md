@@ -1,63 +1,30 @@
-# Olá, me chamo Elton Jr!  
-## Bem-vindo ao meu perfil do GitHub 👋  
+### ✨ Olá, me chamo Elton Jr! ✨  
+- Estudante de **Ciência da Computação** (desde 12/2023).  
+- Apaixonado por **desenvolvimento**, **banco de dados** e **ciência de dados**.  
+- Buscando evoluir constantemente e criar projetos impactantes.  
 
-### ⚡ Sobre mim  
-- 📚 Atualmente cursando **Ciência da Computação** (desde 12/2023).  
-- 💻 Me desenvolvendo nas áreas de **desenvolvimento**, **banco de dados** e **ciência de dados**.  
+## 💻 Tecnologias e Ferramentas  
+<div style="display: inline">  
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+  <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />  
+  <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />  
+  <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />  
+  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+</div><br/>  
 
-### 💡 Tecnologias que estou utilizando:  
+## 📊 GitHub Stats ⚡  
+<div>  
+  <a href="https://github.com/eltonJramc">  
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonJramc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />  
+  </center>  
+  <center>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonJramc&layout=compact&langs_count=7&theme=dracula"/>   
+  </center>  
+</div>  
 
---> **Desenvolvimento:**  
-- **JavaScript**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" />
-- **Python**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" />
-
---> **Banco de Dados:**  
-- **SQL**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" />  
-
---> **Ciência de Dados:**  
-- **Python** com foco em:  
-  - **Pandas**  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" />
-  - **NumPy**  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="30" />
-  - **Matplotlib**  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="30" />
-  - **Scikit-Learn**  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30" />
-
-#### 🚀 **Estou aprendendo:**  
-- **Java**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" />
-- **Power BI**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" />
-
-### 🎯 Busco colaborar em  
-- Projetos focados em **desenvolvimento, banco de dados e ciência de dados**.  
-
----
-
-## 📫 **Contatos**  
-
-<a href="mailto:eltonjuniorc@gmail.com">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>  
-<a href="https://www.linkedin.com/in/elton-júnior-cordeiro-914b34211" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  
-
----
-
-## 📊 **GitHub Stats**  
-
-<div>
-  <a href="https://github.com/eltonJramc">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonJramc&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eltonJramc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-
-
+## 📫 Entre em contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-j%C3%BAnior-cordeiro-914b34211)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eltonjuniorc@gmail.com)  
